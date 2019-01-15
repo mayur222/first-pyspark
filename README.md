@@ -8,6 +8,7 @@ Then it'll check for duplicates and print those rows with number of duplicates p
 
 ## Requirements
 pyspark 2.4.0
+
 java 1.8
 
 ## Usage:
