@@ -12,5 +12,5 @@ java 1.8
 
 ## Usage:
 ```
-python DQ.py your_file.csv
+python DQ.py Test.csv
 ```
